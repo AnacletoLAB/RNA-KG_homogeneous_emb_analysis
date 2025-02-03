@@ -43,7 +43,7 @@ This project extensively utilizes the GRAPE library, which can be found in the [
 ## Setup
 1. Clone the repository and go into the folder.
 
-    ```git clone --single-branch --branch paper https://github.com/AnacletoLAB/RNA-KG-Analysis && cd RNA-KG-Analysis```
+    ```git clone https://github.com/AnacletoLAB/RNA-KG_homogeneous_emb_analysis && cd RNA-KG_homogeneous_emb_analysis```
 1. (Optional but recommended) Create a new virtual environment to install the python packages and activate it.
 
     ```python3 -m venv ./.venv && source ./.venv/bin/activate```
