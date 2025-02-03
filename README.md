@@ -1,4 +1,4 @@
-# RNA-KG Analysis
+# RNA-KG analysis with homogeneous methods
 
 This repository contains the code for analyzing the RNA Knowledge Graph (RNA-KG) as detailed in the [paper](https://www.nature.com/articles/s41597-024-03673-7) and available on [GitHub](https://github.com/AnacletoLAB/RNA-KG).
 
